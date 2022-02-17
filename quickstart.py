@@ -45,7 +45,7 @@ parser = detector.create_telemetry_parser(source)
 telemetry = parser.read()
 
 # Write Telemetry object to JSON
-write.telemetryToJson(telemetry, dest)
+write.telemetryToCSV(telemetry, dest)
 
 # Example telemetry manipulation
 # Filters out anything thats not a GPS element
