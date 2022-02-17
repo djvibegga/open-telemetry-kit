@@ -1,7 +1,6 @@
 {
     "name": "djvibegga/open-telemetry-kit",
     "description": "Conversion between different DJI log formats",
-    "type": "library",
     "license": "MIT",
     "authors": [
         {
@@ -10,5 +9,6 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+    "autoload": {}
 }
