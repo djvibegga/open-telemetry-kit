@@ -1,0 +1,14 @@
+{
+    "name": "djvibegga/open-telemetry-kit",
+    "description": "Conversion between different DJI log formats",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hivemapper Inc",
+            "email": "no-reply@hivemapper.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
